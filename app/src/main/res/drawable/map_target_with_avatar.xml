@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/back"
+        android:width="75dp"
+        android:height="75dp"
+        android:drawable="@drawable/ic_tracker_75dp"/>
+    <item android:id="@+id/drawable_avatar"
+        android:drawable="@drawable/ic_launcher_foreground"
+        android:gravity="top"
+        android:width="54dp"
+        android:height="54dp"
+        android:top="5dp"
+        android:left="10dp">
+    </item>
+<!--    <item android:id="@+id/balloon"-->
+<!--        android:width="100dp"-->
+<!--        android:height="50dp"-->
+<!--        android:top="65dp"-->
+<!--        android:left="45dp"-->
+<!--        android:drawable="@drawable/round_balloon">-->
+<!--    </item>-->
+</layer-list>
